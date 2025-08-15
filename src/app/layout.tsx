@@ -10,8 +10,8 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css"; // Import Toastify styles
 
 export const metadata: Metadata = {
-  title: "Silk India | Admin Panel",
-  description: "Silk.",
+  title: "Ranas International | Admin Panel",
+  description: "Ranas International.",
 };
 
 // Configure the Poppins font
