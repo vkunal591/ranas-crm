@@ -62,7 +62,7 @@ const Login: React.FC = () => {
               />
             </div>
             <h2 className="text-black text-center text-2xl font-semibold mb-6">
-              Welcome To Silk India
+              Welcome To Ranas International
             </h2>
 
             {/* Form */}
